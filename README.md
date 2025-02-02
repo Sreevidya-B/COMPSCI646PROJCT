@@ -1,4 +1,4 @@
-# COMPSCI646PROJCT
+# Enhancing Standard Two-Stage IR systems with T5 and MMR for Biomedical Hypothesis Research  
 
 ## Overview
 This project aims to enhance standard two-stage IR systems with T5 and MMR for biomedical hypothesis research. The system retrieves and ranks documents to provide a balanced set of supporting and contradicting evidence for given claims.
